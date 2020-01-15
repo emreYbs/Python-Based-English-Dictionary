@@ -59,10 +59,19 @@ def Acikla(w):
         return "Girdiğiniz kelime veritabanında bulunamadı. Demek ki çok zor sordunuz::)"
 
 
-kelime = input("Kelime Girin: ")
-sonuc = Acikla(kelime)
-if type(sonuc) == list:
-    for item in sonuc:
-        print(item)
-else:
-    print(sonuc)
+while True:
+  kelime = input("Kelime Girin(Eğer çıkmak isterseniz q tuşuna basınız) : ")
+  if kelime == 'q':
+    print("Görüşmek üzere. Yine bekleriz:)")
+    break
+  sonuc = Acikla(kelime)
+  if type(sonuc) == list:
+      for item in sonuc:
+          print(item)
+  else:
+      print(sonuc)
+    
+    
+ 
+
+
