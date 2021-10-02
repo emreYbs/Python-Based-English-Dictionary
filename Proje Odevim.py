@@ -1,26 +1,11 @@
-#     ___                  _             _ _
-#    / __\__ _ _ __       /_\  _   _  __| (_)_ __       /\  /\___   ___ __ _
-#   / /  / _` | '_ \     //_\\| | | |/ _` | | '_ \     / /_/ / _ \ / __/ _` |
-#  / /__| (_| | | | |   /  _  \ |_| | (_| | | | | |   / __  / (_) | (_| (_| |
-#  \____/\__,_|_| |_|___\_/ \_/\__, |\__,_|_|_| |_|___\/ /_/ \___/ \___\__,_|____
-#                  |_____|     |___/             |_____|                   |_____|
-#     ___           _            ___    _            _
-#    / _ \_ __ ___ (_) ___      /___\__| | _____   _(_)
-#   / /_)/ '__/ _ \| |/ _ \    //  // _` |/ _ \ \ / / |
-#  / ___/| | | (_) | |  __/   / \_// (_| |  __/\ V /| |
-#  \/    |_|  \___// |\___|___\___/ \__,_|\___| \_/ |_|
-#                |__/    |_____|                                     Version 0.0.1
+# Version 0.0.1
 #
-#                                Emre Ucar   contact_info:ucar.emre@ogr.deu.edu.tr
-#
-# Doc.Dr.Can Aydın'a teslim edilmek üzere, ödevimin ilk versiyonudur.
-#
-# Bu projeyi, ikinci dönem derslerinde göreceğimiz,
-# Html,Css, Bootstrap, Php gibi teknolojileri kullanarak websayfası ve veritabanı destekli web uygulaması yapıp, geliştireceğim.
+#                                EmreYbs
+
 #
 #  ===============================================================================
 #
-#  Copyright (C) [2020] [Emre Ucar]
+#  Copyright (C) [2020] [EmreYbs]
 #
 #  This program is free software: you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
